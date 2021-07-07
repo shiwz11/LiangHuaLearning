@@ -3,4 +3,4 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+该博客记录了日常学习量化理论技术、代码技术等的一些学习笔记。分享出来和大家一起学习，顺便也是自我监督的一个手段。
