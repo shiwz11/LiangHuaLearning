@@ -1,0 +1,12 @@
+---
+title: test
+author: Shiwz11
+date: '2021-07-07'
+slug: test
+categories:
+  - Memos
+tags:
+  - Bonds
+---
+
+This is a test post
